@@ -1,0 +1,2 @@
+# DevZonr-
+developer mode logger
